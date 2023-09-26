@@ -1,0 +1,25 @@
+{
+    "user": {
+      "username": "johndoe123",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "age": 30,
+      "isActive": true
+    },
+    "product": {
+      "productId": "ABC123",
+      "productName": "Widget Pro",
+      "price": 29.99,
+      "description": "An advanced widget with extra features",
+      "inStock": true
+    },
+    "book": {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "publicationYear": 1925,
+      "genres": ["Fiction", "Classic"],
+      "isAvailable": true
+    }
+  }
+  
